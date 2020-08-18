@@ -1,2 +1,2 @@
-# fewd_project_2
+# fewd-project-2
  Mobile-first Responsive Layout
